@@ -1,0 +1,36 @@
+.profile {
+  width: 300px;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #bfbfbf;
+  margin: 20px auto 0;
+}
+
+.description {
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+.avatar {
+  max-width: 100%;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid #000000;
+}
+.name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tag {
+}
+.location {
+}
+.stats {
+}
+.label {
+}
+.quantity {
+}

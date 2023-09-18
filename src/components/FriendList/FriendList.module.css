@@ -1,0 +1,22 @@
+.friendList{
+background-color: rgb(208, 222, 235);
+padding: 20px;
+margin: 0 auto;
+/* align-items: center;
+justify-content: center; */
+}
+.item{
+margin: 0 auto;
+list-style: none;
+align-items: center;
+}
+
+.avatar{
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+        justify-content: center;
+}
+.name{
+text-align: center;
+}
